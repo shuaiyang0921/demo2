@@ -1,0 +1,49 @@
+
+2019-04-02 14:19:34
+错误信息：Unknown column 'post.id' in 'on clause'
+
+2019-04-02 14:29:45
+错误信息：Unknown column 'favorite.favorite_count' in 'field list'
+
+2019-04-02 14:29:56
+错误信息：Unknown column 'favorite.favorite_count' in 'field list'
+
+2019-04-02 16:45:39
+错误信息：Unknown column 'pid' in 'order clause'
+
+2019-04-02 16:46:14
+错误信息：Unknown column 'pid' in 'order clause'
+
+2019-04-02 16:46:22
+错误信息：Unknown column 'pid' in 'order clause'
+
+2019-04-02 16:46:22
+错误信息：Unknown column 'pid' in 'order clause'
+
+2019-04-04 16:50:25
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+2019-05-06 18:41:16
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-05-06 18:55:30
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-05-06 19:01:39
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-05-06 19:22:50
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-05-06 19:31:11
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-05-06 19:32:13
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-05-06 19:32:55
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+2019-05-06 19:44:24
+错误信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
